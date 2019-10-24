@@ -4,7 +4,6 @@ d3.json('./sample_geo.json', function(error, data) {
   var path = d3.geoPath();
   var width = 600;
   var height = 600;
-  console.log('hello');
      
   d3. select('svg')
     .attr('width', width)

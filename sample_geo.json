@@ -42,9 +42,119 @@
           [
             [ 100, 0 ],
             [ 200, 0 ],
+            [ 200, 100 ],
+            [ 100, 100 ],
+            [ 100, 0 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "color": "red" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 100, 100 ],
+            [ 200, 100 ],
             [ 200, 200 ],
             [ 100, 200 ],
-            [ 100, 0 ]
+            [ 100, 100 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "color": "pink" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 600, 600 ],
+            [ 0, 600 ],
+            [ 600, 0 ],
+            [ 600, 600 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "color": "orange" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 600, 600 ],
+            [ 300, 600 ],
+            [ 600, 300 ],
+            [ 600, 600 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "color": "coral" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 600, 600 ],
+            [ 400, 500 ],
+            [ 300, 300 ],
+            [ 500, 400 ],
+            [ 600, 600 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "color": "black" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 500, 500 ],
+            [ 425, 475 ],
+            [ 400, 400 ],
+            [ 475, 425 ],
+            [ 500, 500 ]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": { "color": "white" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 400, 400 ],
+            [ 425, 475 ],
+            [ 300, 300 ],
+            [ 475, 425 ],
+            [ 400, 400  ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "color": "teal" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 500, 500 ],
+            [ 425, 475 ],
+            [ 600, 600 ],
+            [ 475, 425 ],
+            [ 500, 500  ]
           ]
         ]
       }
